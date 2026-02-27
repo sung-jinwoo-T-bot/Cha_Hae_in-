@@ -1,7 +1,7 @@
 # Exported from Render on 2025-06-15T01:18:42ZAdd commentMore actions
 services:
 - type: web
-  name: ShipuAiGoatBot
+  name: JinwooAiGoatBot
   runtime: node
   repo: https://github.com/brandchitron/ShipuAiGoatBot
   plan: free
