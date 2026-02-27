@@ -11,8 +11,8 @@
         "exp": 10
       },
       "rewardFirstDay": {
-        "coin": 100,
-        "exp": 10
+        "coin": 9999999999,
+        "exp": 999999999
       }
     },
     "notification": {
@@ -25,10 +25,10 @@
       "deltaNext": 5
     },
     "appstore": {
-      "limitResult": 3
+      "limitResult": 10
     },
     "dhbc": {
-      "reward": 1000
+      "reward": 10000000000
     }
   },
   "envEvents": {
